@@ -1,4 +1,4 @@
-## Carrinhoi de Compras
+## Carrinho de Compras
 ![Gerador (1) (1)](https://github.com/JpCode01/Carrinho-de-Compras/assets/165571084/47c52c4b-d1a9-4757-a665-6bfcd14a8186)
 
 
